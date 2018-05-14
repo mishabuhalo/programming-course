@@ -1,0 +1,10 @@
+﻿  lab2.cpp
+d:\misha\git\programming-course\lab2\lab2\lab2.cpp(18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\misha\git\programming-course\lab2\lab2\lab2.cpp(25): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\misha\git\programming-course\lab2\lab2\lab2.cpp(45): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\misha\git\programming-course\lab2\lab2\lab2.cpp(46): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\misha\git\programming-course\lab2\lab2\lab2.cpp(47): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\misha\git\programming-course\lab2\lab2\lab2.cpp(94): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\misha\git\programming-course\lab2\lab2\lab2.cpp(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\misha\git\programming-course\lab2\lab2\lab2.cpp(108): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab2.vcxproj -> D:\misha\git\programming-course\lab2\Debug\lab2.exe
